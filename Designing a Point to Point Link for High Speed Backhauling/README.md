@@ -4,6 +4,7 @@ This repository presents the design and simulation of a high-speed point-to-poin
 
 Key Features:
 • E-band: Designed to operate at 72 GHz.
+
 • Data Rate: Supports a data rate of 150 Mbps.
 • Modulation: Utilizes 64-QAM modulation.
 • Distance: Optimized for a distance of 1 km.
