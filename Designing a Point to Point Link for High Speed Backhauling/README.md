@@ -3,6 +3,7 @@
 This repository presents the design and simulation of a high-speed point-to-point link, specifically optimized for backhauling applications in the E-band (71-76 GHz / 81-86 GHz). The project includes the realization of a complete link with RF transmission and reception sections, baseband simulations, and a detailed link budget calculation.
 
 Key Features:
+
 • E-band: Designed to operate at 72 GHz.
 • Data Rate: Supports a data rate of 150 Mbps.
 • Modulation: Utilizes 64-QAM modulation.
